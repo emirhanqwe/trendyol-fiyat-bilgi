@@ -10,20 +10,27 @@ Kullanılan Moduller :
 - numpy
 - pandas
 - seaborn
+
 Kullanılan Hedef Site: Trendyol
 
-Bu proje bir 'Web Scrapping' projesidir. Trendyol sitesinden ürün fiyatlarını alır ve giriş, orta, üst segment olarak ürünün segmentlere göre ortalama fiyatlarını Excel tablosu ve Grafik resmi ile gösterir.
+Bu proje bir 'Web Scraping' projesidir. Trendyol sitesinden ürün fiyatlarını alır ve giriş, orta, üst segment olarak ürünün segmentlere göre ortalama fiyatlarını Excel tablosu ve Grafik resmi ile gösterir.
 
 # Kurulum
 Windows :
 - install.bat dosyasını çalıştırılarak otomatik kurulum yapılır
 
 Linux / MacOS :
-- pip3 install -r requirements.txt
+```batch
+pip3 install -r requirements.txt
+```
 
 # Çalıştırma
 Windows :
-- python main.py
+```batch
+python main.py
+```
 
 Linux / MacOS :
-- python3 main.py
+```batch
+python3 main.py
+```
