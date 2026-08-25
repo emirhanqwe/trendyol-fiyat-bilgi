@@ -15,7 +15,7 @@ Bu proje bir 'Web Scrapping' projesidir. Trendyol sitesinden ürün fiyatların�
 
 # Kurulum
 Windows :
-- install.bat dosyasını çalıştırarak otomatik kurulum yapar
+- install.bat dosyasını çalıştırılarak otomatik kurulum yapılır
 
 Linux / MacOS :
 - pip3 install -r requirements.txt
