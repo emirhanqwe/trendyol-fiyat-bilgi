@@ -34,3 +34,6 @@ Linux / MacOS :
 ```batch
 python3 main.py
 ```
+
+
+(**Not:** Bu proje yapay zekadan yardım alınarak yapılmıştır. Bu projeyi alıp size para veya başka birşey karşılığında satmaya çalışanlara itibar etmeyiniz.)
