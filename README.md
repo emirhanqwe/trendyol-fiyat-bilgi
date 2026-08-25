@@ -11,7 +11,7 @@
 - pandas
 - seaborn
 
-**Kullanılan Hedef Site:** **Trendyol
+**Kullanılan Hedef Site:** Trendyol
 
 Bu proje bir **'Web Scraping'** projesidir. Hedef siteden ürün fiyatlarını alır ve giriş, orta, üst segment olarak ürünün segmentlere göre ortalama fiyatlarını Excel tablosu ve Grafik resmi ile gösterir.
 
