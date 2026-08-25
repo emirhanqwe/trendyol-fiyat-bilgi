@@ -1,6 +1,7 @@
 # Trendyol Ürün Fiyat Bilgilendirme Sistemi
 
 Kullanılan dil : Python
+
 Kullanılan Moduller :
 - beatifulsoup4
 - colorama
