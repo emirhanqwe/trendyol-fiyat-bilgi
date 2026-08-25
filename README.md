@@ -1,8 +1,8 @@
 # Trendyol Ürün Fiyat Bilgilendirme Sistemi
 
-Kullanılan dil : Python
+**Kullanılan dil**: Python
 
-Kullanılan Moduller :
+**Kullanılan Moduller** :
 - beatifulsoup4
 - colorama
 - curl_cffi
@@ -11,13 +11,13 @@ Kullanılan Moduller :
 - pandas
 - seaborn
 
-Kullanılan Hedef Site: Trendyol
+**Kullanılan Hedef Site:** **Trendyol
 
-Bu proje bir 'Web Scraping' projesidir. Trendyol sitesinden ürün fiyatlarını alır ve giriş, orta, üst segment olarak ürünün segmentlere göre ortalama fiyatlarını Excel tablosu ve Grafik resmi ile gösterir.
+Bu proje bir **'Web Scraping'** projesidir. Hedef siteden ürün fiyatlarını alır ve giriş, orta, üst segment olarak ürünün segmentlere göre ortalama fiyatlarını Excel tablosu ve Grafik resmi ile gösterir.
 
 # Kurulum
 Windows :
-- install.bat dosyasını çalıştırılarak otomatik kurulum yapılır
+- *install.bat dosyasını çalıştırılarak otomatik kurulum yapılır*
 
 Linux / MacOS :
 ```batch
